@@ -64,7 +64,7 @@ Currently, I focus on building innovative apps that combine artificial intellige
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://t.me/madyarb" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg" alt="telegram" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Telegram_icon_%282019%29.svg" alt="telegram" width="40" height="40"/>
   </a>
   <a href="mailto:mahdiarbarzegar0@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" width="40" height="40"/>
