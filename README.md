@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Mahdiar</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahdiar-barzegarr&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=mahdiar-barzegar&color=blueviolet)
 
 ## 🚀 About Me
 I'm a passionate and creative developer, actively working in the field of Android app development using Kotlin and Jetpack Compose.  
@@ -52,11 +52,11 @@ Currently, I focus on building innovative apps that combine artificial intellige
 </p>
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdiar-barzegarr&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdiar-barzegar&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahdiar-barzegarr&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahdiar-barzegar&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiar-barzegarr&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiar-barzegar&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
 <p align="left">
@@ -66,7 +66,7 @@ Currently, I focus on building innovative apps that combine artificial intellige
   <a href="mailto:mahdiarbarzegar0@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" width="40" height="40"/>
   </a>
-  <a href="https://github.com/mahdiar-barzegarr" target="_blank" rel="noreferrer">
+  <a href="https://github.com/mahdiar-barzegar" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
 </p>
