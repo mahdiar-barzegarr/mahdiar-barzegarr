@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mahdiar</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahdiar-barzegarr&color=blueviolet)
 
 ## 🚀 About Me
 I'm a passionate and creative developer, actively working in the field of Android app development using Kotlin and Jetpack Compose.  
