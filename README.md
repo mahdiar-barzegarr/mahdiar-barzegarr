@@ -62,9 +62,6 @@ Currently, I focus on building innovative apps that combine artificial intellige
   <a href="mailto:mahdiarbarzegar0@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" width="40" height="40"/>
   </a>
-  <a href="https://github.com/mahdiar-barzegarr" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
 </p>
 
 ---
